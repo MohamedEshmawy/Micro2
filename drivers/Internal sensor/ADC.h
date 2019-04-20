@@ -1,12 +1,8 @@
 #include "tm4c123gh6pm.h"
-#include <stdint.h>
 
-
-
-void UART_Init(void);
-void ADC_Init();
+void ADC_Init(void);
+void Uart_Initt(void);
 void printChar(char x);
-char* getString();
-unsigned long ADC0_InSeq3(void);
-void UART_Initt(void);
-	
+int ADC0_GetSample(void);
+void Uart_Initt(void);
+void send_temperature();

@@ -45,7 +45,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\</OutputDirectory>
-          <OutputName>ADC_2nd</OutputName>
+          <OutputName>ddd</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>0</CreateHexFile>
@@ -104,7 +104,7 @@
           <SimDllName>SARMCM3.DLL</SimDllName>
           <SimDllArguments>-MPU</SimDllArguments>
           <SimDlgDll>DCM.DLL</SimDlgDll>
-          <SimDlgDllArguments>-pCM4-dLaunchPadDLL</SimDlgDllArguments>
+          <SimDlgDllArguments>-pCM4 -dLaunchPadDLL</SimDlgDllArguments>
           <TargetDllName>SARMCM3.DLL</TargetDllName>
           <TargetDllArguments>-MPU</TargetDllArguments>
           <TargetDlgDll>TCM.DLL</TargetDlgDll>
@@ -419,6 +419,11 @@
               <FileName>ADC.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\ADC.c</FilePath>
+            </File>
+            <File>
+              <FileName>UART.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\UART.c</FilePath>
             </File>
           </Files>
         </Group>
