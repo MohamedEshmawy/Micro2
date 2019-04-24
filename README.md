@@ -1,4 +1,4 @@
-<h1>This is second Micro Project</h1>
+<h1>This is arm microcontroller based Project</h1>
 <h3>this project is made with tiva c microcontroller jsut for 
 learning purposes only not more 
 this project is built of Three UART connected systems <h3>
