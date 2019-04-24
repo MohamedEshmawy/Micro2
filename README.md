@@ -3,7 +3,7 @@
 learning purposes only not more 
 this project is built of Three UART connected systems <h3>
 <h3>12 embedded system engineer from Ain shams University participated in this project</h3>
-<ol>
+<h4><ol>
 <li>Mohamed Reda Gouda   , Team Leader </li>
 <li>Mohamed Khaled awaad , Team Member </li>
 <li>Mohamed Ashmawy      , Team Member </li>
@@ -16,4 +16,4 @@ this project is built of Three UART connected systems <h3>
 <li>Mohamoud Hafez	 , Team Member </li>
 <li>Eman salah   	 , Team Member </li>
 <li>Esraa 		 , Team Member </li>
-</ol>
+</ol></h4>
