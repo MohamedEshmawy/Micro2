@@ -1,8 +1,8 @@
 <h1>This is second Micro Project</h1>
-<p>this project is made with tiva c microcontroller jsut for 
+<h3>this project is made with tiva c microcontroller jsut for 
 learning purposes only not more 
-this project is built of Three UART connected systems 
-<h2>12 embedded system engineer from Ain shams University participated in this project</h2>
+this project is built of Three UART connected systems <h3>
+<h3>12 embedded system engineer from Ain shams University participated in this project</h3>
 <ol>
 <li>Mohamed Reda Gouda   , Team Leader </li>
 <li>Mohamed Khaled awaad , Team Member </li>
