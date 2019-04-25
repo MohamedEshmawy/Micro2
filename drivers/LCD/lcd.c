@@ -126,3 +126,21 @@ for(i=0;i<n;i++)
 for(j=0;j<3;j++)
 {}
 }
+void display(void) {
+	float temp = 0;
+	LCD_init();
+	Uarßt_Init()
+	Lcd_Cmd(0x80);
+	delay_milli(1000);
+	send_string("TEMP :");
+	delay_milli(1000);
+	Lcd_Cmd(0xC0);
+	delay_milli(500);
+	send_string("cel:");
+	delay_milli(1000);
+	while (1){
+	send_float();
+	delay_milli(10000);
+	ADC0->ISC = 8;          /* clear completion flag */
+}
+}
