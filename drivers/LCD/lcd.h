@@ -21,6 +21,7 @@
 
 #define En 0x04;
 #define Rs 0x08;
+//functions pt
 void SystemInit();
 void delay_milli(int n);
 void delay_micro(int n);
