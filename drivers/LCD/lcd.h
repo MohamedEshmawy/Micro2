@@ -31,7 +31,7 @@ void Lcd_Cmd(unsigned char command);
 void Lcd_Data(unsigned char data);
 void send_string(char *s);
 void send_int(int n);
-void send_float(float b);
+void send_float(void);
 void count(void);
 void delay(int cnt);
 void display(void);
