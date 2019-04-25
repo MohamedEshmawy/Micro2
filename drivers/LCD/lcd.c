@@ -127,9 +127,10 @@ for(j=0;j<3;j++)
 {}
 }
 void display(void) {
-	float temp = 0;
-	LCD_init();
-	Uarßt_Init()
+	
+	
+	Uart_Init();
+        LCD_init();
 	Lcd_Cmd(0x80);
 	delay_milli(1000);
 	send_string("TEMP :");
@@ -141,6 +142,6 @@ void display(void) {
 	while (1){
 	send_float();
 	delay_milli(10000);
-	ADC0->ISC = 8;          /* clear completion flag */
+	
 }
 }
