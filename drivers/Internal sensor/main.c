@@ -1,7 +1,7 @@
 #include "ADC.h"
 
 void SystemInit(){
-	Uart_Initt();
+	Uart0_Initt();
 	ADC_Init();
 }
 

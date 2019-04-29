@@ -53,7 +53,7 @@ void printChar(char x){
 	while((UART0_FR_R &0x20) !=0);
 	UART0_DR_R = x;
 }
-void Uart_Initt(void){
+void Uart0_Initt(void){
 		SYSCTL_RCGCUART_R |= 1; 
 		SYSCTL_RCGCGPIO_R |= 1; 
 		
@@ -72,8 +72,9 @@ void Uart_Initt(void){
 }
 void send_temperature(){
 			int x = 147 - (247 * ADC0_GetSample()) / 4096;
-			int u = x/10;
-			printChar(u+48);
-			u = x%10;
-			printChar(u+48);
+			//int u = x/10;
+			//printChar(u+48);
+			//u = x%10;
+			//printChar(u+48);
+			printChar(x);
 }
