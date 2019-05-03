@@ -12,7 +12,7 @@ This project is built of Three UART connected systems .<h3>
 <li>Mohamed atef         , Team Member </li>
 <li>Shimaa hamd          , Team Member </li>
 <li>Yara alaa   	 , Team Member </li>
-<li>sarah elbeheriy	 , Team Member </li>
+<li>Sarah El Behairy	 , Team Member </li>
 <li>Mohamoud Hafez	 , Team Member </li>
 <li>Eman salah   	 , Team Member </li>
 <li>Esraa 		 , Team Member </li>
