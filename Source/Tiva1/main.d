@@ -1,0 +1,17 @@
+.\main.o: main.c
+.\main.o: Switch.h
+.\main.o: tm4c123gh6pm.h
+.\main.o: MCAL/MCAL.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: MCAL/MCAL_DIO.h
+.\main.o: MCAL/MCAL_UART5.h
+.\main.o: UART0.h
+.\main.o: POT_ADC.h
+.\main.o: POT_ADC.h
+.\main.o: LCD.h
+.\main.o: UART0.h
+.\main.o: extra/qeue.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
