@@ -17,6 +17,5 @@ This project is built of Three UART connected systems .<h3>
 <li>Eman salah   	 , Team Member </li>
 <li>Esraa mahmoud aoud 	 , Team Member </li>
 </ol></h3>
-<li>Esraa 		 , Team Member </li>
-</ol></h3>
+
 
