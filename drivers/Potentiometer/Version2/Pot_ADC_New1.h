@@ -2,5 +2,6 @@
 #include "MCAL/MCAL.h"
 
 void Init_ADC(void);
+char SendSample(void);
 
 
