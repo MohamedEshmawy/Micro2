@@ -11,7 +11,8 @@
 
 // Include the other MCAL modules.
 #include "MCAL_PLL.h"
-#include "MCAL_SysTick.h"
+//#include "MCAL_SysTick.h"
 #include "MCAL_DIO.h"
+#include "MCAL_UART5.h"
 
 #endif

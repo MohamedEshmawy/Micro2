@@ -1,0 +1,15 @@
+--cpu Cortex-M4.fp
+".\startup_tm4c123.o"
+".\lcd.o"
+".\main.o"
+".\switch.o"
+".\pot_adc.o"
+".\uart0.o"
+".\mcal_dio.o"
+".\mcal_pll.o"
+".\mcal_systick.o"
+".\mcal_uart5.o"
+".\qeue.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\PArt1.map" -o .\PArt1.axf

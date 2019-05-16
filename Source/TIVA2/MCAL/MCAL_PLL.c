@@ -5,7 +5,6 @@
 // Hardware:  TM4C123 Tiva board
 
 #include <stdint.h>
-#include "MCAL.h"
 #include "tm4c123gh6pm.h"
 
 // Holds the currently configured bus clock frequency.
